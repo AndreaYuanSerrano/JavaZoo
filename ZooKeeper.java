@@ -42,6 +42,6 @@ public class ZooKeeper{
   	System.out.println("Name: " + keeper.getName());
   	System.out.println("Title: " + keeper.getTitle());
   	System.out.println("Payrate: " + keeper.getPayRate());
-
+System.out.println("The zooKeeper named Andrea has no degree");
 	 }
 }
